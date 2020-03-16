@@ -1,0 +1,46 @@
+Number for requestor thread = 1
+Number for resolver thread = 1
+Total run time: 6209578
+Thread 2022 serviced 5 file(s)
+
+Number for requestor thread = 1
+Number for resolver thread = 3
+Total run time: 1737210
+Thread 2067 serviced 5 file(s)
+
+Number for requestor thread = 3
+Number for resolver thread = 1
+Total run time: 2861784
+Thread 2077 serviced 1 file(s)
+Thread 2075 serviced 1 file(s)
+Thread 2076 serviced 3 file(s)
+
+Number for requestor thread = 3
+Number for resolver thread = 3
+Total run time: 1576958
+Thread 2090 serviced 1 file(s)
+Thread 2092 serviced 2 file(s)
+Thread 2091 serviced 2 file(s)
+
+Number for requestor thread = 5
+Number for resolver thread = 5
+Total run time: 1497444
+Thread 2105 serviced 1 file(s)
+Thread 2102 serviced 1 file(s)
+Thread 2104 serviced 1 file(s)
+Thread 2101 serviced 1 file(s)
+Thread 2103 serviced 1 file(s)
+
+Number for requestor thread = 8
+Number for resolver thread = 5
+Total run time: 694456
+Thread 2122 serviced 0 file(s)
+Thread 2120 serviced 0 file(s)
+Thread 2121 serviced 0 file(s)
+Thread 2119 serviced 1 file(s)
+Thread 2116 serviced 1 file(s)
+Thread 2118 serviced 1 file(s)
+Thread 2117 serviced 1 file(s)
+Thread 2115 serviced 1 file(s)
+
+
