@@ -1,0 +1,9 @@
+Liz Parker
+CSCI 3753
+Programming Assignment 4
+
+pager-lru.c Implements a Least Recently Used algorithm for page replacement. This file contains a commented out section that was used to inform the predictive algorithm. 
+
+pager-predict.c Implements a predictive algorithm for page replacement. The matrix informing the likelihood of pages needed was formed by conducting a series of tests on the pager-lru file and observing what pages the processes used.
+
+I tested these programs by calling make and running ./test-lru and ./test-predict
